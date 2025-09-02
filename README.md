@@ -61,17 +61,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuedriAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuedriAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="218" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnhyODNlNzdsbXJjMnBkaDJ5MW4zMTRxeTVvaGF5ZjA1bmx4dWM0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/USV0ym3bVWQJJmNu3N/giphy.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/GuedriAhmed/GuedriAhmed/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuedriAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuedriAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
